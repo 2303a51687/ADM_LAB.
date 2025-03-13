@@ -6,6 +6,6 @@
 
 #LAB EXAM 01 (https://github.com/2303a51687/ADM_LAB./blob/main/LAB_EXAM_01.ipynb)
 
-#LAB 06 (
+#LAB 06 (https://github.com/2303a51687/ADM_LAB./blob/main/LAB_06.ipynb)
 
 #LAB 07 (https://github.com/2303a51687/ADM_LAB./blob/main/LAB_07.ipynb)
