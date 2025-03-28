@@ -11,3 +11,5 @@
 #LAB 06 (https://github.com/2303a51687/ADM_LAB./blob/main/LAB_06.ipynb)
 
 #LAB 07 (https://github.com/2303a51687/ADM_LAB./blob/main/LAB_07.ipynb)
+
+#LAB 08 (https://github.com/2303a51687/ADM_LAB./blob/main/LAB_08.ipynb)
